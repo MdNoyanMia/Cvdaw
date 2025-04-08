@@ -1,0 +1,607 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 1287px;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+    display: inline-block;
+}
+
+ul,
+ol {
+    list-style-type: none;
+
+}
+
+h1 h2 h3 h4 h5 h6 p {
+    margin: 0;
+    padding: 0;
+    line-height: 0.8;
+}
+
+
+#headerfile {
+    padding: 38px 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 100;
+
+}
+
+.row {
+    display: flex;
+}
+
+.haderf {
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logu a {}
+
+.menu ul li {
+    display: inline-block;
+}
+
+.menu ul li a {
+    color: white;
+    padding: 0 10px;
+    font-size: 18px;
+    font-family: "Nunito Sans", sans-serif;
+   transition: .4s;
+
+}
+
+.menu ul li a:hover {
+    color: rgb(42, 22, 195);
+
+}
+
+.icon a {
+    padding: 15px 10px;
+
+}
+
+.icon a {
+    color: white;
+    padding: 10px 10px;
+    border-radius: 50px;
+    background: rgb(99, 86, 86);
+}
+
+.errow {
+    width: 50px;
+    height: 50px;
+    background: rgb(183, 47, 47);
+    border-radius: 50px;
+
+}
+
+.errow {
+    width: 46px;
+    height: 46px;
+    background: rgb(203, 51, 51);
+    border-radius: 50px;
+    position: relative;
+}
+
+.errow .line1 {
+    width: 20px;
+    height: 2px;
+    background: white;
+    position: absolute;
+    bottom: 31px;
+    left: 13px;
+}
+
+.errow .line2 {
+    width: 30px;
+    height: 2px;
+    background: white;
+    position: absolute;
+    bottom: 23px;
+    left: 4px;
+
+}
+
+.errow .line3 {
+    width: 26px;
+    height: 2px;
+    background: white;
+    position: absolute;
+    bottom: 13px;
+    left: 9px;
+}
+
+/*  */
+#bannerpart {
+    background: url(../image/kjkjkjkjkj.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 280px 150px;
+
+}
+
+.text1 h5 {
+    color: white;
+    font-size: 28px;
+    font-family: "Rajdhani", sans-serif;
+}
+
+.text1 h3 {
+    color: white;
+    font-size: 50px;
+    font-family: "Rajdhani", sans-serif;
+    width: 447px;
+    height: 170px;
+
+}
+
+.text1 h6 {
+    font-size: 16px;
+    font-family: "Rajdhani", sans-serif;
+    width: 553px;
+    height: 60px;
+    line-height: 30px;
+    color: #9F9F9F;
+    padding: 10px 0;
+}
+
+.text1 a {
+    font-size: 16px;
+    font-family: "Rajdhani", sans-serif;
+    line-height: 30px;
+    color: #9F9F9F;
+    padding: 20px 0;
+
+}
+
+.text1 a {
+
+    padding: 10px 20px;
+    border-radius: 50px;
+    border: 1px solid white;
+
+}
+
+.text1 a i {
+
+    padding: 7px 7px;
+    border-radius: 50px;
+    background: rgb(186, 41, 41);
+
+}
+
+
+
+.text2 img {
+
+    position: absolute;
+    top: 117px;
+    left: 57%;
+}
+
+.text2 h3 {
+
+    position: absolute;
+    top: 448px;
+    left: 51%;
+}
+
+.text2 h4 {
+
+    position: absolute;
+    top: 576px;
+    left: 53%;
+}
+
+.text2 h3 {
+    width: 806.67px;
+    height: 148.3px;
+    font-size: 130px;
+    font-family: "Rajdhani", sans-serif;
+    line-height: 115px;
+    color: #9F9F9F;
+
+
+}
+
+.text2 h4 {
+    width: 806.67px;
+    height: 148.3px;
+    font-size: 120px;
+    font-family: "Rajdhani", sans-serif;
+    line-height: 115px;
+    color: #9F9F9F;
+
+
+
+}
+
+#porerpart {
+    padding: 100px 0;
+    background: black;
+
+}
+
+.porerf {
+    justify-content: space-between;
+    align-items: center;
+}
+
+.div1 {
+    width: 300px;
+    height: 245px;
+    border: 1px solid #FF494A;
+    border-radius: 10px;
+    position: relative;
+}
+
+.div1 img {
+    font-size: 101px;
+    left: 122px;
+    top: 37px;
+    position: absolute;
+    color: white;
+}
+
+.div1 h3 {
+    font-size: 24px;
+    font-family: "Rajdhani", sans-serif;
+    left: 83px;
+    top: 122px;
+    position: absolute;
+    color: white;
+}
+
+.div1 h4 {
+    font-size: 16px;
+    font-family: "Rajdhani", sans-serif;
+    left: 94px;
+    top: 169px;
+    position: absolute;
+    color: white;
+
+}
+
+/*  */
+.div2 {
+    width: 300px;
+    height: 245px;
+    border: 1px solid #FF494A;
+    border-radius: 10px;
+    position: relative;
+}
+
+
+/*  */
+
+.div2 img {
+    font-size: 101px;
+    left: 122px;
+    top: 37px;
+    position: absolute;
+    color: white;
+}
+
+.div2 h3 {
+    font-size: 24px;
+    font-family: "Rajdhani", sans-serif;
+    left: 83px;
+    top: 122px;
+    position: absolute;
+    color: white;
+}
+
+.div2 h5 {
+    font-size: 16px;
+    font-family: "Rajdhani", sans-serif;
+    left: 94px;
+    top: 169px;
+    position: absolute;
+    color: white;
+
+}
+
+/*  */
+.div3 {
+    width: 300px;
+    height: 245px;
+    border: 1px solid #FF494A;
+    border-radius: 10px;
+    position: relative;
+    color: white;
+}
+
+/*  */
+
+.div3 img {
+    font-size: 101px;
+    left: 122px;
+    top: 37px;
+    position: absolute;
+    color: white;
+}
+
+.div3 h3 {
+    font-size: 24px;
+    font-family: "Rajdhani", sans-serif;
+    left: 83px;
+    top: 122px;
+    position: absolute;
+    color: white;
+}
+
+.div3 h5 {
+    font-size: 16px;
+    font-family: "Rajdhani", sans-serif;
+    left: 94px;
+    top: 169px;
+    position: absolute;
+
+}
+
+/*  */
+.div4 {
+    width: 300px;
+    height: 245px;
+    border: 1px solid #FF494A;
+    border-radius: 10px;
+    position: relative;
+}
+
+/*  */
+
+.div4 img {
+    font-size: 101px;
+    left: 122px;
+    top: 37px;
+    position: absolute;
+    color: white;
+}
+
+.div4 h3 {
+    font-size: 24px;
+    font-family: "Rajdhani", sans-serif;
+    left: 83px;
+    top: 122px;
+    position: absolute;
+    color: white;
+}
+
+.div4 h5 {
+    font-size: 16px;
+    font-family: "Rajdhani", sans-serif;
+    left: 94px;
+    top: 169px;
+    position: absolute;
+    color: white;
+
+}
+
+/*onkkaz start  */
+#onekaz {
+    padding: 100px 0;
+    background: black;
+}
+
+
+
+
+.divv1 {
+
+    width: 630px;
+    height: 360px;
+    background: url(../image/BG.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+
+}
+
+.bnb {
+    display: flex;
+    position: relative;
+}
+
+.bnb h1 {
+    color: #FF494A;
+    position: absolute;
+    left: 67px;
+    top: 17px;
+    font-size: 167.21px;
+    font-family: "Rajdhani", sans-serif;
+
+}
+
+.bnb h2 {
+    color: white;
+    position: absolute;
+    left: 270px;
+    top: 70px;
+    font-size: 48px;
+    font-family: "Rajdhani", sans-serif;
+}
+
+.divv1 h3 {
+    color: white;
+    position: absolute;
+    left: 75px;
+    top: 233px;
+    font-size: 16px;
+    line-height: 30px;
+    font-family: "Rubik", sans-serif;
+    width: 523px;
+    height: 60px;
+}
+
+
+
+
+/*  */
+
+.hhf {
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.dvvvv {
+    background: #0f0f0fc3;
+    width: 300px;
+    height: 165px;
+    border-radius: 20px;
+    margin: 17px 0px;
+    position: relative;
+}
+
+.dvvvv22 {
+    background: #0f0f0fc3;
+    width: 300px;
+    height: 165px;
+    border-radius: 20px;
+    position: relative;
+
+}
+/*  */
+.dvvvv22 h3{
+    color: white;
+    left: 95px;
+    top: 38px;
+    position: absolute;
+    font-size: 48px;
+    font-family: "Rajdhani", sans-serif;
+}
+/*  */
+
+.dvvvv22 h4{
+    color: white;
+    left: 60px;
+    top: 97px;
+    position: absolute;
+    font-size: 16px;
+    font-family: "Rubik", sans-serif;
+}
+
+/*onkkaz end */
+/*onkkaz start  */
+.dvvvv1 {
+    background: #0f0f0fc3;
+    width: 300px;
+    height: 165px;
+    border-radius: 20px;
+    margin: 17px 0px;
+    position: relative;
+
+}
+
+/*  */
+
+
+.dvvvv1 h3{
+    color: white;
+    left: 95px;
+    top: 38px;
+    position: absolute;
+    font-size: 48px;
+    font-family: "Rajdhani", sans-serif;
+}
+/*  */
+
+.dvvvv1 h4{
+    color: white;
+    left: 60px;
+    top: 97px;
+    position: absolute;
+    font-size: 16px;
+    font-family: "Rubik", sans-serif;
+}
+
+
+
+.dvvvv4 {
+    background: #0f0f0fc3;
+    width: 300px;
+    height: 165px;
+    border-radius: 20px;
+    position: relative;
+}
+/* kjkjkjkjjkjj */
+.dvvvv4 h3{
+    color: white;
+    left: 95px;
+    top: 38px;
+    position: absolute;
+    font-size: 48px;
+    font-family: "Rajdhani", sans-serif;
+}
+/*  */
+
+.dvvvv4 h4{
+    color: white;
+    left: 60px;
+    top: 97px;
+    position: absolute;
+    font-size: 16px;
+    font-family: "Rubik", sans-serif;
+}
+/*onkkaz end */
+.dvvvv h3 {
+    color: #ead1d1;
+    left: 95px;
+    top: 38px;
+    position: absolute;
+    font-size: 48px;
+    font-family: "Rajdhani", sans-serif;
+
+}
+
+.dvvvv h4 {
+    color: #eddddd;
+    left: 60px;
+    top: 97px;
+    position: absolute;
+    font-size: 16px;
+    font-family: "Rubik", sans-serif;
+
+}
+
+
+/*onkkaz start  */
+
+
+
+/*onkkaz start  */
+
+
+
+
+/*onkkaz end */
+/*onkkaz start  */
+
+/*onkkaz end */
+/*onkkaz start  */
+/*onkkaz end */
+/*onkkaz start  */
+/*onkkaz end */
+/*onkkaz start  */
+/*onkkaz end */
+/*onkkaz start  */
+/*onkkaz end */
+
+/*onkkaz start  */
+/*onkkaz start  */
+/*onkkaz start  */
+/*onkkaz start  */
+/*onkkaz start  */
