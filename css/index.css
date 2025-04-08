@@ -56,7 +56,7 @@ h1 h2 h3 h4 h5 h6 p {
     padding: 0 10px;
     font-size: 18px;
     font-family: "Nunito Sans", sans-serif;
-   transition: .4s;
+    transition: .4s;
 
 }
 
@@ -474,8 +474,9 @@ h1 h2 h3 h4 h5 h6 p {
     position: relative;
 
 }
+
 /*  */
-.dvvvv22 h3{
+.dvvvv22 h3 {
     color: white;
     left: 95px;
     top: 38px;
@@ -483,9 +484,10 @@ h1 h2 h3 h4 h5 h6 p {
     font-size: 48px;
     font-family: "Rajdhani", sans-serif;
 }
+
 /*  */
 
-.dvvvv22 h4{
+.dvvvv22 h4 {
     color: white;
     left: 60px;
     top: 97px;
@@ -509,7 +511,7 @@ h1 h2 h3 h4 h5 h6 p {
 /*  */
 
 
-.dvvvv1 h3{
+.dvvvv1 h3 {
     color: white;
     left: 95px;
     top: 38px;
@@ -517,9 +519,10 @@ h1 h2 h3 h4 h5 h6 p {
     font-size: 48px;
     font-family: "Rajdhani", sans-serif;
 }
+
 /*  */
 
-.dvvvv1 h4{
+.dvvvv1 h4 {
     color: white;
     left: 60px;
     top: 97px;
@@ -537,8 +540,9 @@ h1 h2 h3 h4 h5 h6 p {
     border-radius: 20px;
     position: relative;
 }
+
 /* kjkjkjkjjkjj */
-.dvvvv4 h3{
+.dvvvv4 h3 {
     color: white;
     left: 95px;
     top: 38px;
@@ -546,9 +550,10 @@ h1 h2 h3 h4 h5 h6 p {
     font-size: 48px;
     font-family: "Rajdhani", sans-serif;
 }
+
 /*  */
 
-.dvvvv4 h4{
+.dvvvv4 h4 {
     color: white;
     left: 60px;
     top: 97px;
@@ -556,6 +561,7 @@ h1 h2 h3 h4 h5 h6 p {
     font-size: 16px;
     font-family: "Rubik", sans-serif;
 }
+
 /*onkkaz end */
 .dvvvv h3 {
     color: #ead1d1;
@@ -583,12 +589,97 @@ h1 h2 h3 h4 h5 h6 p {
 
 
 /*onkkaz start  */
+#jkjkjkj {
+    padding: 100px 0;
+    background: black;
+}
+
+.divve h5 {
+    color: #FF494A;
+    text-align: center;
+    font-size: 18px;
+    font-family: "Rajdhani", sans-serif;
+    text-transform: uppercase;
+
+}
+
+.divve h3 {
+    color: #ded5d5;
+    text-align: center;
+    font-size: 48px;
+    font-family: "Rajdhani", sans-serif;
+    text-transform: uppercase;
+
+}
 
 
 
+
+.divve h4 {
+    width: 706px;
+    height: 60px;
+    color: #e4d2d2;
+    text-align: center;
+    font-size: 16px;
+    line-height: 30px;
+    font-family: "Rubik", sans-serif;
+    position: absolute;
+    left: 503px;
+
+
+}
 
 /*onkkaz end */
 /*onkkaz start  */
+.bgbgb {
+    padding: 150px 0;
+}
+
+.kjjkkj {
+    padding: 20px 10px;
+    background: #0F0F0F;
+    border-radius: 20px;
+    margin: 15px 0;
+}
+.kjjkkjkk{
+    padding: 0px 80px;
+}
+
+.kjjkkj h4 {
+    color: rgb(245, 223, 223);
+    font-size: 24px;
+    font-family: "Rajdhani", sans-serif;
+    line-height: 30px;
+   
+
+}
+
+
+.kjjkkj h3 {
+    color: rgb(234, 213, 213);
+    font-size: 24px;
+    font-family: "Rajdhani", sans-serif;
+    line-height: 30px;
+    padding: 0 10px ;
+   
+
+
+}
+
+
+.kjjkkj h5 {
+    color: rgb(234, 221, 221);
+    font-size: 16px;
+    font-family: "Rubik", sans-serif;
+    line-height: 30px;
+    padding: 0 10px ;
+    width: 550px;
+    height: 60px;
+   
+
+}
+
+
 
 /*onkkaz end */
 /*onkkaz start  */
